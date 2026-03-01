@@ -1,0 +1,10 @@
+{
+  "name": "PowerNest",
+  "short_name": "PowerNest",
+  "description": "Renewable energy marketplace for sellers, buyers, and investors.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3B82F6",
+  "icons": []
+}
