@@ -1,4 +1,4 @@
-# GreenGrid - Renewable Energy Marketplace Platform
+# PowerNest - Renewable Energy Marketplace Platform
 
 A full-stack production-ready web application that connects renewable energy producers, consumers, and investors in a sustainable energy marketplace.
 
